@@ -26,12 +26,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-```
-node v18.0.0
-```
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### CI Tests
 
 [Tests](https://github.com/annmirosh/calendar-and-drag-n-drop-and-tests/actions)
+
+
+```
+node v18.0.0
+```
